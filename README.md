@@ -3,7 +3,7 @@
 A Java system for managing a fitness studio: clients, instructors, a secretary, and group sessions.
 Built as part of the Object-Oriented Programming course at Ariel University, with a focus on clean OOP design and classic design patterns.
 
-Developed together with [PARTNER NAME](https://github.com/PARTNER_USERNAME).
+
 
 ## Features
 
